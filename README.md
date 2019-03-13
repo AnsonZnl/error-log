@@ -1,1 +1,1 @@
-# error-log
+# My error log
